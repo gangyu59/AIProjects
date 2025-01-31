@@ -1,0 +1,62 @@
+[
+    {
+        "year": 1956,
+        "description": "达特茅斯会议：人工智能的诞生",
+        "details": "达特茅斯会议由约翰·麦卡锡等人组织，被认为是人工智能的奠基性事件。这次会议首次提出了‘人工智能’（Artificial Intelligence）这一术语，并为未来的AI研究奠定了基础。",
+        "image": "../../assets/images/dartmouth.jpeg"
+    },
+    {
+        "year": 1966,
+        "description": "ELIZA：第一个聊天机器人",
+        "details": "约瑟夫·魏岑鲍姆（Joseph Weizenbaum）开发了ELIZA，这是一个早期的自然语言处理程序，它通过基于预定义模式的简单对话模拟心理咨询师。",
+        "image": "../../assets/images/eliza.jpeg"
+    },
+    {
+        "year": 1997,
+        "description": "IBM Deep Blue 击败国际象棋世界冠军卡斯帕罗夫",
+        "details": "IBM开发的AI象棋引擎Deep Blue在六局比赛中击败了世界冠军加里·卡斯帕罗夫（Garry Kasparov），标志着人工智能在战略思维方面取得了重大突破。",
+        "image": "../../assets/images/deep_blue.jpeg"
+    },
+    {
+        "year": 2011,
+        "description": "IBM Watson 在《危险边缘》节目中战胜人类冠军",
+        "details": "IBM Watson是一个能够处理自然语言并快速检索海量信息的AI系统。在智力竞赛节目《Jeopardy!》中，Watson击败了人类冠军，展示了AI在理解和推理能力方面的巨大进步。",
+        "image": "../../assets/images/watson.jpeg"
+    },
+    {
+        "year": 2012,
+        "description": "AlexNet 彻底改变深度学习",
+        "details": "AlexNet是一个深度卷积神经网络（CNN），在ImageNet竞赛中取得了重大胜利，大幅提升了图像识别的准确率，并引发了深度学习的革命。",
+        "image": "../../assets/images/alexnet.jpeg"
+    },
+    {
+        "year": 2016,
+        "description": "AlphaGo 在围棋比赛中战胜李世石",
+        "details": "DeepMind的AlphaGo在五局比赛中战胜了围棋世界冠军李世石，这表明AI可以通过深度强化学习掌握高度复杂和具有战略性的游戏。",
+        "image": "../../assets/images/alphago.jpeg"
+    },
+    {
+        "year": 2018,
+        "description": "OpenAI Five 在Dota 2比赛中击败人类玩家",
+        "details": "OpenAI开发的深度强化学习系统OpenAI Five，在Dota 2比赛中击败了职业玩家，展示了AI在处理复杂实时决策任务方面的能力。",
+        "image": "../../assets/images/openai_five.jpeg"
+    },
+    {
+        "year": 2020,
+        "description": "GPT-3 展现强大的自然语言生成能力",
+        "details": "OpenAI发布了GPT-3，这是一个拥有1750亿参数的大型语言模型，能够生成高度类似人类的文本，并执行各种自然语言处理任务。",
+        "image": "../../assets/images/gpt3.jpeg"
+    },
+    {
+        "year": 2022,
+        "description": "ChatGPT 发布，带来AI对话技术的突破",
+        "details": "ChatGPT基于GPT-3.5，凭借其强大的文本理解和生成能力迅速风靡全球，使人工智能变得更加易于使用和普及。",
+        "image": "../../assets/images/chatgpt.jpeg"
+    },
+    {
+        "year": 2023,
+        "description": "AlphaFold 解决蛋白质折叠问题",
+        "details": "DeepMind开发的AlphaFold成功预测蛋白质的三维结构，解决了一个科学界50年来的难题，推动了新药研发和分子生物学的发展。",
+        "image": "../../assets/images/alphafold.jpeg"
+    }
+]
